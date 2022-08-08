@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "django-rest-oso"
 version = "0.1.0"
-description = ""
+description = "Oso implementation for Django Rest."
 authors = ["Javier Alonso Shannon <javier.as@medicalwebexperts.com>"]
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
