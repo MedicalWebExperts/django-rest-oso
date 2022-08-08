@@ -1,0 +1,5 @@
+### Added
+
+- Oso permissions backend.
+- Oso filter queryset backend.
+- Serielizer field for permissions.
